@@ -10,7 +10,7 @@ jobs:
       - run: |
           THE_FILE=.github/pull_request_template.md
           echo "Please go to the \`Preview\` tab and select the appropriate sub-template:\n" > $THE_FILE
-          file_list = $(ls -1l .github/PULL_REQUEST_TEMPLATE/*.md)
+          file_list=$(ls -1l .github/PULL_REQUEST_TEMPLATE/*.md)
           for i in "${file_list}"
           do
             echo $i
