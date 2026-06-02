@@ -19,7 +19,7 @@ jobs:
           for i in ${file_list}
           do
             echo "Processing template: $i"
-            TEMPLATE_i=$(basename $i)
+            TEMPLATE_i="${i%%.*}"
             echo "* [${TEMPLATE_i}](?expand=1&template=${i})" >> $THE_FILE
           done
           echo "Updated file is:"
