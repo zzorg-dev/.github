@@ -6,3 +6,4 @@ Please go to the `Preview` tab and select the appropriate sub-template:
 * [isd_standard_change_PR](?expand=1&template=isd_standard_change_PR.md)
 * [normal_change_PR](?expand=1&template=normal_change_PR.md)
 * [template5](?expand=1&template=template5.md)
+* [Standard_change_template_1](?expand=1&template=Standard_change_template_1.md)
