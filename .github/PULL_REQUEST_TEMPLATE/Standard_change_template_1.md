@@ -17,17 +17,16 @@ isd_wt_scr_myservices_release
 ccaeand@ucl.ac.uk
 
 ### Start At
-<!-- Mandatory: ISO 8601 with timezone eg: 2026-08-12T01:59:57+01:00 -->
+<!-- Mandatory: ISO 8601 with timezone 2026-08-12T01:59:57+01:00-->
 
 
 ### Custom Fields JSON
 <!-- Optional: valid JSON object only; merged into custom_fields -->
 {
-  "change_start_time": "",
-  "change_end_time": "",
+  "change_start_time": "2026-08-12T01:59:57+01:00",
+  "change_end_time": "2026-08-12T02:59:57+01:00",
   "record_object_types": "standard_change",
   "release_summary": "devops automation testing",
   "release_type": "scheduled_sprint_release",
   "support_domains_impacted": "ISD"
-}
 }
