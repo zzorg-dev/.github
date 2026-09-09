@@ -1,6 +1,6 @@
 <!-- workflow-event-consumer-standard-change -->
 <!-- workflow-event-consumer-support-domain: ucl-poc-isd -->
-<!-- workflow-event-consumer-source-id: isd_wt_scr_myservices_release -->
+<!-- workflow-event-consumer-source-id: isd_wt_scr_automation_demo -->
 
 ### SCR Summary
 <!-- Mandatory: Briefly describe the change and why it is needed -->
