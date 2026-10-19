@@ -1,4 +1,4 @@
-<!-- scr-pr-template -->
+<!-- scr-pr-template: isd_ps_scr_pr_validation -->
 <!-- scr-support-domain: ucl-poc-isd -->
 <!-- scr-source-id: isd_wt_scr_automation_demo -->
 
